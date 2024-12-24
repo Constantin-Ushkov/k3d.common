@@ -2,6 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/k3d.Common
-/k3d.Common/bin/Debug/net8.0
+/.vs
+/k3d.Common/bin
 /k3d.Common/obj
